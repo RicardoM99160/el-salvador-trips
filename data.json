@@ -18,17 +18,17 @@
     ],
     "senderismo": [
         {
-            "nombre": "Fiestas agostinas",
+            "nombre": "senderismo1",
             "lugar": "San Salvador",
             "descripcion": "Descripcion de prueba"
         },
         {
-            "nombre": "Fiestas de nejapa",
+            "nombre": "senderismo2",
             "lugar": "Nejapa",
             "descripcion": "Descripcion de prueba"
         },
         {
-            "nombre": "Fiestas julias",
+            "nombre": "senderismo3",
             "lugar": "Santa Ana",
             "descripcion": "Descripcion de prueba"
         }
