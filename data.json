@@ -1,42 +1,36 @@
 {
-    "categorias": [
+    "fiestas_patronales": [
         {
-            "fiestas_patronales": [
-                {
-                    "nombre": "Fiestas agostinas",
-                    "lugar": "San Salvador",
-                    "descripcion": "Descripcion de prueba"
-                },
-                {
-                    "nombre": "Fiestas de nejapa",
-                    "lugar": "Nejapa",
-                    "descripcion": "Descripcion de prueba"
-                },
-                {
-                    "nombre": "Fiestas julias",
-                    "lugar": "Santa Ana",
-                    "descripcion": "Descripcion de prueba"
-                }
-            ]
+            "nombre": "Fiestas agostinas",
+            "lugar": "San Salvador",
+            "descripcion": "Descripcion de prueba"
         },
         {
-            "senderismo": [
-                {
-                    "nombre": "Fiestas agostinas",
-                    "lugar": "San Salvador",
-                    "descripcion": "Descripcion de prueba"
-                },
-                {
-                    "nombre": "Fiestas de nejapa",
-                    "lugar": "Nejapa",
-                    "descripcion": "Descripcion de prueba"
-                },
-                {
-                    "nombre": "Fiestas julias",
-                    "lugar": "Santa Ana",
-                    "descripcion": "Descripcion de prueba"
-                }
-            ]
+            "nombre": "Fiestas de nejapa",
+            "lugar": "Nejapa",
+            "descripcion": "Descripcion de prueba"
+        },
+        {
+            "nombre": "Fiestas julias",
+            "lugar": "Santa Ana",
+            "descripcion": "Descripcion de prueba"
+        }
+    ],
+    "senderismo": [
+        {
+            "nombre": "Fiestas agostinas",
+            "lugar": "San Salvador",
+            "descripcion": "Descripcion de prueba"
+        },
+        {
+            "nombre": "Fiestas de nejapa",
+            "lugar": "Nejapa",
+            "descripcion": "Descripcion de prueba"
+        },
+        {
+            "nombre": "Fiestas julias",
+            "lugar": "Santa Ana",
+            "descripcion": "Descripcion de prueba"
         }
     ]
 }
