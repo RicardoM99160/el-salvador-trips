@@ -5,40 +5,40 @@
             "lugar": "San Salvador",
             "descripcion": "Las fiestas patronales de San Salvador, Fiestas Agostinas, se celebran del 1 al 6 de agosto. Son fechas fijas y tienen lugar en honor del Divino Salvador del Mundo. Durante seis días los “capitalinos” disfrutan del desfile, las carrozas, el chichimeco, las ruedas y los circos, entre otras muchas diversiones.",
             "imagen": "1aDU5l2rhYIww8vDc_MmwqNa8EuZ02VBT",
-            "latitud": 13.704940381730916,
-            "longitud": -89.2236868403784
+            "latitud": 13.70124, 
+            "longitud": -89.22447
         },
         {
             "nombre": "Fiestas de nejapa",
             "lugar": "Nejapa",
             "descripcion": "Las fiestas patronales se realizan del 27 al 30 de septiembre en honor a San Jerónimo. Nejapa forma parte del Área Metropolitana de San Salvador. Nejapa, se encuentra a una distancia de 21 kilómetros de la ciudad de San Salvador. Esta son las únicas fiestas en las que veras que se tiran bolas de fuego en todo el país incluso de toda Centroamérica",
             "imagen": "1YH3sCZl2fpWAPFI68FAVSnX1qao-fepp",
-            "latitud": 13.815177953608782, 
-            "longitud": -89.23400125114945
+            "latitud": 13.8136, 
+            "longitud": -89.2303
         },
         {
             "nombre": "Fiestas julias",
             "lugar": "Santa Ana",
             "descripcion": "Como Fiestas Julias son denominados los festejos patronales, celebrados del 17 al 26 de julio, en la ciudad de Santa Ana, El Salvador. Estas festividades, en honor a la Señora Santa Ana, se han convertido en uno de los festejos más importantes de este país. Donde durante aproximadamente una semana, la ciudad se llena de color, música, danza, comida típica y actividades religiosas y culturales",
             "imagen": "1QdW5blx0EsUBHwpp7XQee_nhgPKyqLoy",
-            "latitud": 13.978625973373104, 
-            "longitud": -89.56385275952873
+            "latitud": 13.9949, 
+            "longitud": -89.5565
         },
         {
             "nombre": "Bajada del Divino Salvador del Mundo",
             "lugar": "San Salvador",
             "descripcion": "Este acontecimiento celebrado cada 5 de agosto es una conmemoración de la transfiguración de Jesús donde hace referencia a un capítulo del evangelio de San Mateo en el que se relata la transfiguración del Cristo resucitado en la que se transfigura, La Plaza Salvador del Mundo, es el lugar del Monumento al Divino Salvador del Mundo y está en la ciudad de San Salvador, El Salvador. Se la considera símbolo nacional del país",
             "imagen": "1-DiWIaSPm1QZiJeg-4Yt58XdIUSFFmSz",
-            "latitud": 13.69833390768294, 
-            "longitud": -89.1906901465936
+            "latitud": 13.69845, 
+            "longitud": -89.19111
         },
         {
             "nombre": "Carnaval de San Miguel",
             "lugar": "San Miguel",
             "descripcion": "El Carnaval de San Miguel es uno de los festejos populares más importantes de El Salvador, el cual tiene lugar cada mes de noviembre durante las fiestas patronales de la ciudad de San Miguel. Este carnaval es el más importante en todo El salvador e incluso Centroamérica. Con una duración aproximada de un mes, ofrece a los asistentes un ambiente de fiesta con música en vivo, baile, comida y coloridas carrozas o carros alegóricos",
             "imagen": "1MoEAfqTufihOOyd3yKgXpHoCHhMHSZI9",
-            "latitud": 13.48117478806981,
-            "longitud": -88.18454430552681 
+            "latitud": 13.4799, 
+            "longitud": -88.1778
         }
     ],
     "senderismo": [
@@ -47,40 +47,40 @@
             "lugar": "Santa Ana",
             "descripcion": "El Volcán de Santa Ana, ubicado en el departamento homónimo o Ilamatepec su nombre proviene del Náhuat Ilamatepet y que significa El cerro de la anciana. tiene una elevación de 2.381 m s. n. m. y es el más alto de este país. En este volcán puedes realizar una caminata de 3 horas en subir y bajar",
             "imagen": "12iWurn2rS7KDW5bbbPcvxuH8cwWWHWWp",
-            "latitud": 0,
-            "longitud": 0
+            "latitud": 13.85142,  
+            "longitud": -89.62904
         },
         {
             "nombre": "El Pital",
             "lugar": "Chalatenango",
             "descripcion": "El cerro El Pital es una montaña transnacional, ubicada exactamente en la frontera entre El Salvador y Honduras. El Pital es la cima más alta y elevada de El Salvador y la tercera cima más alta de Honduras. Tiene una elevación de 2,730 metros sobre el nivel del mar",
             "imagen": "1CiYgQH1NUgQN2clSnVEUd3n8tIqAWyn7",
-            "latitud": 0,
-            "longitud": 0 
+            "latitud": 14.1352,   
+            "longitud": -88.8608
         },
         {
             "nombre": "El Imposible",
             "lugar": "Ahuachapán",
             "descripcion": "El Parque Nacional El Imposible es un parque nacional en El Salvador. Fue creado el 1 de enero de 1989 y cubre un área de 5,000 hectáreas. Tiene una altitud de entre 250 y 1.425 metros. ​En 1992 El Imposible entró en las listas provisionales del Patrimonio de la Humanidad de la UNESCO junto con Cara Sucia",
             "imagen": "1RGkhL2XjJvcOtCzj7meJP5-vj5HYwchM",
-            "latitud": 0,
-            "longitud": 0 
+            "latitud": 13.8451, 
+            "longitud": -89.9595
         },
         {
             "nombre": "El boquerón",
             "lugar": "San Salvador",
             "descripcion": "El volcán de San Salvador está ubicado en la zona central de El Salvador. Abarca los municipios de Quezaltepeque, San Juan Opico, Colón y Santa Tecla en el departamento de La Libertad; y Nejapa en el departamento de San Salvador",
             "imagen": "1fHWs3oT2-yTy9iMvpN0ERZFIhumTPyej",
-            "latitud": 0,
-            "longitud": 0 
+            "latitud": 13.7371, 
+            "longitud": -89.286 
         },
         {
             "nombre": "El Parque Nacional Montecristo",
             "lugar": "Santa Ana",
             "descripcion": "El Parque Nacional Montecristo está ubicado a 5 km al Noreste de la Ciudad de Metapán, departamento de Santa Ana, El Salvador. Tiene una extensión de 1973 hectáreas de bosque nebuloso y es parte de la Reserva de la biosfera Trifinio. Fue la primera área protegida declarada de este país",
             "imagen": "12yzbP-wKbmbqw9-ZYTetLOUZfErzeXQo",
-            "latitud": 0,
-            "longitud": 0 
+            "latitud": 14.3895, 
+            "longitud": -89.3805 
         }
     ]
 }
