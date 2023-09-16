@@ -82,5 +82,89 @@
             "latitud": 14.3895, 
             "longitud": -89.3805 
         }
+    ],
+    "lagos_rios": [
+        {
+            "nombre": "Lago de Coatepeque",
+            "lugar": "Santa Ana",
+            "descripcion": "Es un lago de origen volcánico, es un supervolcán, formado por cuatros erupciones cataclísmicas, situado a 18 km al sur de la ciudad de Santa Ana en el municipio de El Congo. Tiene una altitud de 745 m s. n. m. y una superficie de 25.3 km². Es reconocido por su belleza natural, debido a sus distintivas aguas color turquesa. El topónimo 'coatepeque' significa: Cerro de la serpiente o Montaña de las serpientes en náhuat",
+            "imagen": "1YMHK-ikQfSB9SWMWWn4aSmuhrn7gCBer",
+            "latitud": 13.8629,   
+            "longitud": -89.5494
+        },
+        {
+            "nombre": "Lago de Ilopango",
+            "lugar": "San Salvador",
+            "descripcion": "de origen volcánico en El Salvador. Tiene una superficie de 72 km², se sitúa a una altitud de 440 m s. n. m. a 16 km de la ciudad San Salvador, entre los departamentos de San Salvador, Cuscatlán y La Paz. Es el lago natural más grande de El Salvador. Aquí podrás: hacer buceo en la isla Quemadas, recorrer la ruta panorámica, degustar la gastronomía local, hacer turismo ecológico",
+            "imagen": "1jOfe7Ka99SiB15EWhe3rnvK94dHEDJTa",
+            "latitud": 13.6689,    
+            "longitud": -89.0449
+        },
+        {
+            "nombre": "Lago de Suchitlan",
+            "lugar": "Cuscatlán",
+            "descripcion": "El Lago Suchitlan es un lago artificial de El Salvador, Centroamérica, se encuentra localizado entre los departamentos de Chalatenango, Cuscatlán y Cabañas. El Lago Suchitlán, proviene su nombre de: -Suchi- de Suchitoto y -tlán- de Custatlán,2​ es el lago más grande de El Salvador. Su nombre en Nahuatl significa “Lugar de flores”. Aunque es un lago artificial, en su cauce se produce la mayoría de energía eléctrica del país. Posee una extensión de 135 km² y con una altitud entre los 182 y 234 m s. n. m. Es el lago más grande de El Salvador",
+            "imagen": "1AsCggWScdivEADl092lWJI41z36hdF4l",
+            "latitud": 14.0826,  
+            "longitud": -89.1211
+        },
+        {
+            "nombre": "Lago de Güija",
+            "lugar": "Santa Ana",
+            "descripcion": "Es un lago de América Central cuya superficie es compartida por El Salvador y Guatemala. Está ubicado en la frontera noroeste de El Salvador y el este de Guatemala, entre el departamento salvadoreño de Santa Ana y el departamento guatemalteco de Jutiapa, a una altura de 430 m s. n. m. El lago tiene una extensión aproximada de 45 km² y es compartida por ambos países. El Salvador cuenta con el 74 % de su extensión y Guatemala con el otro 26 %. Las cercanías del lago es el hábitat idóneo para aves como el quetzal, el cenzontle y la calandria americana, así como numerosos lagartos, y serpientes como boas y víboras",
+            "imagen": "1oTK9rScEwEyYUPL4NFVrGABO4vJLfvRG",
+            "latitud": 14.2667,  
+            "longitud": -89.5248 
+        },
+        {
+            "nombre": "Río Torola",
+            "lugar": "La Unión",
+            "descripcion": "Tiene una extensión de 100,3 km, y nace 10 km al norte de la cabecera del municipio de Lislique, departamento de La Unión, El Salvador, sus aguas desembocan directamente en el Río Lempa. Está situado en el oriente del país, y con sus características ha despertado el interés de miles de personas que ansían recorrerlo, o acercarse a contemplarlo un poco más de cerca. Es uno de los atractivos turísticos de la zona oriental del país",
+            "imagen": "1hm0e1DHtz50H3Q2tg-M_WifKHO90JEAt",
+            "latitud": 14, 
+            "longitud": -89.3805 
+        }
+    ],
+    "playas": [
+        {
+            "nombre": "Volcán de Santa Ana",
+            "lugar": "Santa Ana",
+            "descripcion": "El Volcán de Santa Ana, ubicado en el departamento homónimo o Ilamatepec su nombre proviene del Náhuat Ilamatepet y que significa El cerro de la anciana. tiene una elevación de 2.381 m s. n. m. y es el más alto de este país. En este volcán puedes realizar una caminata de 3 horas en subir y bajar",
+            "imagen": "12iWurn2rS7KDW5bbbPcvxuH8cwWWHWWp",
+            "latitud": 13.85142,  
+            "longitud": -89.62904
+        },
+        {
+            "nombre": "El Pital",
+            "lugar": "Chalatenango",
+            "descripcion": "El cerro El Pital es una montaña transnacional, ubicada exactamente en la frontera entre El Salvador y Honduras. El Pital es la cima más alta y elevada de El Salvador y la tercera cima más alta de Honduras. Tiene una elevación de 2,730 metros sobre el nivel del mar",
+            "imagen": "1CiYgQH1NUgQN2clSnVEUd3n8tIqAWyn7",
+            "latitud": 14.1352,   
+            "longitud": -88.8608
+        },
+        {
+            "nombre": "El Imposible",
+            "lugar": "Ahuachapán",
+            "descripcion": "El Parque Nacional El Imposible es un parque nacional en El Salvador. Fue creado el 1 de enero de 1989 y cubre un área de 5,000 hectáreas. Tiene una altitud de entre 250 y 1.425 metros. ​En 1992 El Imposible entró en las listas provisionales del Patrimonio de la Humanidad de la UNESCO junto con Cara Sucia",
+            "imagen": "1RGkhL2XjJvcOtCzj7meJP5-vj5HYwchM",
+            "latitud": 13.8451, 
+            "longitud": -89.9595
+        },
+        {
+            "nombre": "El boquerón",
+            "lugar": "San Salvador",
+            "descripcion": "El volcán de San Salvador está ubicado en la zona central de El Salvador. Abarca los municipios de Quezaltepeque, San Juan Opico, Colón y Santa Tecla en el departamento de La Libertad; y Nejapa en el departamento de San Salvador",
+            "imagen": "1fHWs3oT2-yTy9iMvpN0ERZFIhumTPyej",
+            "latitud": 13.7371, 
+            "longitud": -89.286 
+        },
+        {
+            "nombre": "El Parque Nacional Montecristo",
+            "lugar": "Santa Ana",
+            "descripcion": "El Parque Nacional Montecristo está ubicado a 5 km al Noreste de la Ciudad de Metapán, departamento de Santa Ana, El Salvador. Tiene una extensión de 1973 hectáreas de bosque nebuloso y es parte de la Reserva de la biosfera Trifinio. Fue la primera área protegida declarada de este país",
+            "imagen": "12yzbP-wKbmbqw9-ZYTetLOUZfErzeXQo",
+            "latitud": 14.3895, 
+            "longitud": -89.3805 
+        }
     ]
 }
