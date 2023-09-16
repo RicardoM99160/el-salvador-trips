@@ -121,50 +121,50 @@
             "lugar": "La Unión",
             "descripcion": "Tiene una extensión de 100,3 km, y nace 10 km al norte de la cabecera del municipio de Lislique, departamento de La Unión, El Salvador, sus aguas desembocan directamente en el Río Lempa. Está situado en el oriente del país, y con sus características ha despertado el interés de miles de personas que ansían recorrerlo, o acercarse a contemplarlo un poco más de cerca. Es uno de los atractivos turísticos de la zona oriental del país",
             "imagen": "1hm0e1DHtz50H3Q2tg-M_WifKHO90JEAt",
-            "latitud": 14, 
-            "longitud": -89.3805 
+            "latitud": 13.8327,  
+            "longitud": -88.0293 
         }
     ],
     "playas": [
         {
-            "nombre": "Volcán de Santa Ana",
-            "lugar": "Santa Ana",
-            "descripcion": "El Volcán de Santa Ana, ubicado en el departamento homónimo o Ilamatepec su nombre proviene del Náhuat Ilamatepet y que significa El cerro de la anciana. tiene una elevación de 2.381 m s. n. m. y es el más alto de este país. En este volcán puedes realizar una caminata de 3 horas en subir y bajar",
-            "imagen": "12iWurn2rS7KDW5bbbPcvxuH8cwWWHWWp",
-            "latitud": 13.85142,  
-            "longitud": -89.62904
+            "nombre": "Playa El Sunzal",
+            "lugar": "La Libertad",
+            "descripcion": "El Sunzal es la playa con mayor historia surfista de toda la región, el primer lugar donde se juntaron grupos de surfistas a compartir olas. Es una de las puntas más largas que existen en el país, y su oleaje de aguas profundas crea olas aptas para todo nivel de surfistas.Además, aquí se encuentran la mayor cantidad de backpackers, comederos y pupusodromos. Es una de las playas con mejor acceso y es sede de campeonatos nacionales y mundiales. No se puede venir a El Salvador sin surfear las olas de esta playa",
+            "imagen": "1rTrzF9lddIN1O1E-Wl3uNihoerbvRhOp",
+            "latitud": 13.49312,   
+            "longitud": -89.39004
         },
         {
-            "nombre": "El Pital",
-            "lugar": "Chalatenango",
-            "descripcion": "El cerro El Pital es una montaña transnacional, ubicada exactamente en la frontera entre El Salvador y Honduras. El Pital es la cima más alta y elevada de El Salvador y la tercera cima más alta de Honduras. Tiene una elevación de 2,730 metros sobre el nivel del mar",
-            "imagen": "1CiYgQH1NUgQN2clSnVEUd3n8tIqAWyn7",
-            "latitud": 14.1352,   
-            "longitud": -88.8608
+            "nombre": "Playa Costa del Sol",
+            "lugar": "La Paz",
+            "descripcion": "La Costa del Sol está situada en el Departamento de la Paz, a 65 kms de la ciudad capital. Presenta olas estilo beachbreak a lo largo de sus arenas, y es bastante visitada por turistas. La amplia gama hotelera del sector ofrece una gran cantidad de escuelas de surf, así como uno de los clubes más importantes del país.Es una de las pocas bahías o esteros con marinas para embarcaciones privadas deportivas y turísticas, y cuenta con gran variedad de tours a los manglares, la isla de Montecristo y la bocana de la Puntilla, apta para practicar deportes acuáticos de motor, stand up paddle, kayaks, etc.Además, esta playa es la sede del ya tradicional torneo de Pesca internacional del Marlín de El Salvador",
+            "imagen": "1NP5VVo8hobao0jfKpZkL5I7AVZWmNKGs",
+            "latitud": 13.33875,    
+            "longitud": -88.99521
         },
         {
-            "nombre": "El Imposible",
-            "lugar": "Ahuachapán",
-            "descripcion": "El Parque Nacional El Imposible es un parque nacional en El Salvador. Fue creado el 1 de enero de 1989 y cubre un área de 5,000 hectáreas. Tiene una altitud de entre 250 y 1.425 metros. ​En 1992 El Imposible entró en las listas provisionales del Patrimonio de la Humanidad de la UNESCO junto con Cara Sucia",
-            "imagen": "1RGkhL2XjJvcOtCzj7meJP5-vj5HYwchM",
-            "latitud": 13.8451, 
-            "longitud": -89.9595
+            "nombre": "Playa El Tunco",
+            "lugar": "La Libertad",
+            "descripcion": "El Tunco, o como originalmente se le llamó por el nombre de la propietaria del único establecimiento que había, La Juanas, es un pequeño vecindario que poco a poco se fue transformando en un lugar de descanso de los visitantes de playa Sunzal.Hoy en día es la playa que mayor variedad turística concentra, convirtiéndola en destino mundial de surf, turismo y ocio nocturno. Esta playa brinda un ambiente incomparable, con buena música de los restaurantes y bares que se encuentran alrededor; en ellos pueden degustarse exquisitos platillos nacionales e internacionales. Se puede decir que todo el que ha practicado surf en el país ha visitado esta emblemática piedra",
+            "imagen": "17XMUXikFYymJQO09U7ksH7EDQNYckIiI",
+            "latitud": 13.49292,  
+            "longitud": -89.38407
         },
         {
-            "nombre": "El boquerón",
-            "lugar": "San Salvador",
-            "descripcion": "El volcán de San Salvador está ubicado en la zona central de El Salvador. Abarca los municipios de Quezaltepeque, San Juan Opico, Colón y Santa Tecla en el departamento de La Libertad; y Nejapa en el departamento de San Salvador",
-            "imagen": "1fHWs3oT2-yTy9iMvpN0ERZFIhumTPyej",
-            "latitud": 13.7371, 
-            "longitud": -89.286 
+            "nombre": "Playa Los Cóbanos",
+            "lugar": "Sonsonate",
+            "descripcion": "La Playa Los Cobanos posee un área natural protegida, el Complejo Los Cóbanos, que abarca aproximadamente 264.6 kms² de ecosistema marino protegido. Se caracteriza por la presencia de peñascos y rocas de origen volcánico.Cuenta con un arrecife coralino de 157 km de largo siendo el más grande del pacífico norte que propicia la práctica de buceo, surf,snorkel, pesca, y por supuesto surf. Un atractivo especial es que en Los Cóbanos son comunes los avistamientos de ballenas durante los meses de enero y febrero, especialmente de la especie yubarta o jorobada. En sus playas podrá encontrar una amplia gama de hoteles y restaurantes, y acceso de ruta de buses",
+            "imagen": "1bjD7tUDnq7cytUauOnh9LaQOVd9sMUof",
+            "latitud": 13.52576,  
+            "longitud": -89.79769 
         },
         {
-            "nombre": "El Parque Nacional Montecristo",
-            "lugar": "Santa Ana",
-            "descripcion": "El Parque Nacional Montecristo está ubicado a 5 km al Noreste de la Ciudad de Metapán, departamento de Santa Ana, El Salvador. Tiene una extensión de 1973 hectáreas de bosque nebuloso y es parte de la Reserva de la biosfera Trifinio. Fue la primera área protegida declarada de este país",
-            "imagen": "12yzbP-wKbmbqw9-ZYTetLOUZfErzeXQo",
-            "latitud": 14.3895, 
-            "longitud": -89.3805 
+            "nombre": "Playa El Cuco",
+            "lugar": "San Miguel",
+            "descripcion": "La Playa El Cuco por su belleza y atractivos es considerada uno de los destinos favoritos en el oriente de El Salvador. Está ubicada a 170 kilómetros de San Salvador, en el departamento de San Miguel, y destaca por su larguísima playa de arena negra volcánica. Los incontables bancos de arena a lo largo de su costa generan olas por doquier, no en un nivel experto, pero muy adecuadas para iniciarse en este deporte, pues son rompientes amables, de espuma blanca y poca profundidad, lo que vuelve fácil internarse un buen trecho. El oleaje es suave y constante por lo cual invita a tomar un baño en sus refrescantes aguas",
+            "imagen": "1xxlHqr_321Qt4m1_iwluMlqth9zNeARi",
+            "latitud": 13.17247,  
+            "longitud": -88.10072 
         }
     ]
 }
